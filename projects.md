@@ -21,4 +21,4 @@ subtitle: Some models I built
 negative feedback loops using Monte Carlo simulation and Principal Component Analysis. Statistical analysis and analytical calculations correlated strongly with the experimental observations
 
 
-2. **Diagnostic kit optmization (IIT Delhi)**: Optimized the performance of a diagnostic device with respect to the concentration, temperature, and humidity. Applied nonlinear regression analysis on experimental data sets yielding $$R^2$$ values as high as 0.98 
+2. **Diagnostic kit optmization (IIT Delhi)**: Optimized the performance of a diagnostic device with respect to the concentration, temperature, and humidity. Applied nonlinear regression analysis on experimental data sets yielding \(R^2\) values as high as 0.98 
