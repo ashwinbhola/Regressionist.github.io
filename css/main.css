@@ -8,7 +8,7 @@ layout: null
 
 body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  font-size: 22px;
+  font-size: 20.5px;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
