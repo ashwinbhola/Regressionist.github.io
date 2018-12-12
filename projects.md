@@ -10,7 +10,7 @@ subtitle: Some models I built
 2. **Flight Delay Prediction**: Worked in a team of three to design a model to predict flight delays for flights departing from JFK airport based on historical data of flight delays, past weather data and US Bank holidays data. Achieved 0.78 AUC using ensemble methods
 
 
-3. **Recommendation system**: Implemented content based filtering and collaborative filtering methods to generate recommendations for existing users. Achieved RMSE value of 0.94 on the test set(MovieLens 20M dataset)
+3. **Recommendation system**: Implemented content based filtering and collaborative filtering methods to generate recommendations for existing users. Achieved RMSE value of 0.94 on the test set (MovieLens 20M dataset)
 
 
 4. **Sentiment anlaysis**: Classified IMDB movie reviews as postive, negative or neutral using Naive Bayes, Logistic regression and Decision trees. Achieved AUC score of 0.926 and prediction accuracy of 85% on the test set
