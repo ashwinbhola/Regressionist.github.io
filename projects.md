@@ -4,10 +4,10 @@ title: Projects
 subtitle: Some models I built
 ---
 ## Projects
-..* **Face Detection and Recognition**: Designed a 8 layered CNN for person recognition and bounding box regression. Augmented the training dataset by horizontal flipping and adding gaussian noise to the images. Model achieved a classification accuracy (for recognizing the employee by employee ID) of 94% on test set and 0.71 IoU
+⋅⋅* **Face Detection and Recognition**: Designed a 8 layered CNN for person recognition and bounding box regression. Augmented the training dataset by horizontal flipping and adding gaussian noise to the images. Model achieved a classification accuracy (for recognizing the employee by employee ID) of 94% on test set and 0.71 IoU
 
 
-..* **Flight Delay Prediction**: Worked in a team of three to design a model to predict flight delays for flights departing from JFK airport based on historical data of flight delays, past weather data and US Bank holidays data. Achieved 0.78 AUC using ensemble methods
+⋅⋅* **Flight Delay Prediction**: Worked in a team of three to design a model to predict flight delays for flights departing from JFK airport based on historical data of flight delays, past weather data and US Bank holidays data. Achieved 0.78 AUC using ensemble methods
 
 
 3. **Recommendation system**: Implemented content based filtering and collaborative filtering methods to generate recommendations for existing users. Achieved RMSE value of 0.94 on the test set (MovieLens 20M dataset)
