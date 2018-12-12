@@ -4,7 +4,11 @@ title: About me
 subtitle: Who am I?
 ---
 
-My name is <i class="fa fa-gear"></i> Inigo Montoya. I have the following qualities:
+<i class="fa fa-institution"></i> Graduate Student at Center for Data Science, NYU
+<i class="fa fa-code"> I am passionate about extracting useful knowledge from data to solve business problems and formulating data mining solutions and evaluating the results in the context in which they will be used. I am also interested in deep learning and its application in computer vision and NLP</i> 
+
+
+My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
