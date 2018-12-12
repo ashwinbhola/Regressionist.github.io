@@ -15,8 +15,3 @@ subtitle: Who am I?
 
 <i class="fa fa-globe"></i> Born in *Chandigarh, India*. Did my schooling from *Chandigarh* and Bachelors from *IIT Delhi*, India. I moved to *New York* in 2018 to pursue MS in Data Science at NYU
 
-
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
