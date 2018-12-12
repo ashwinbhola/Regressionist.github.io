@@ -23,7 +23,7 @@ description: Blog
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "Regressionist.github.io"
+  Home: ""
   About Me: "aboutme"
   Projects: "projects"
   #Resources:
@@ -74,7 +74,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: ""
+  email: ab8084@nyu.edu
   facebook: ashwin.bhola.5
   github: Regressionist
 #  twitter: daattali
