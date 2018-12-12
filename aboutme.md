@@ -4,7 +4,7 @@ title: About me
 subtitle: Who am I?
 ---
 
-My name is @icon-fa-envelope Inigo Montoya. I have the following qualities:
+My name is <i class="fa fa-gear"></i> Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
