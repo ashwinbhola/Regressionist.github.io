@@ -7,15 +7,15 @@ subtitle: Who am I?
 <i class="fa fa-institution"></i> Graduate Student at Center for Data Science, New York University
 
 
-<span><i class="fa fa-code"></i> </span> I am passionate about extracting useful knowledge from data to solve business problems and formulating data mining solutions and evaluating the results in the context in which they will be used. I am also interested in deep learning and its application in computer vision and NLP
+<i class="fa fa-code"></i> I am passionate about extracting useful knowledge from data to solve business problems and formulating data mining solutions and evaluating the results in the context in which they will be used. I am also interested in deep learning and its application in computer vision and NLP
 
 
-My name is Inigo Montoya. I have the following qualities:
+<i class="fa fa-file-pdf-o"></i> The **[projects]()** page lists some of my work. You can learn more about my work via my **[resume]()**
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+<i class="fa fa-globe"></i> Born in *Chandigarh, India*. Did my schooling from *Chandigarh* and Bachelors from *IIT Delhi*, India. I moved to *New York* in 2018 in order to pursue MS in Data Science at NYU
+
+
 
 ### my history
 
