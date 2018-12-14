@@ -19,8 +19,10 @@ With this in mind, first I augmented my training dataset by flipping all the ima
 
 
 I thought of now changing the model and came up with the idea of stacking two CNNs. I designed two six layered CNNs and avergaged their resulting predictions. The two CNNs differed only in their filter sze. It's very similar to the philosophy of wisdom of crowds but my individuals are not expert themselves and jusy two individuals don't form a crowd. Still, I trained the model on the same training dataset and got 0.71 AUC and 94% classification accuracy. The predictions of the bounding box are shown below and I think they are pretty good. 
+![alt text](/img/FDR/pic1.png)
+![alt text](/img/FDR/pic2.png)
+![alt text](/img/FDR/pic3.png)
 
-
-This is still a project in progress and thus, please let me know any suggestions you have (and if you think I am incapable of thinking them myself). The code is on GitHub but I have not added the comments yet, so please hold off your judgements about my commenting skills :)
+This is still a project in progress and thus, please let me know any suggestions you have (and if you think I am incapable of thinking them myself). The code is on GitHub but I have not added the comments yet. 
 
 
