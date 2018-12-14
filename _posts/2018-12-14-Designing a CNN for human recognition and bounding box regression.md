@@ -29,5 +29,8 @@ I thought of changing the model itself and came up with the idea of stacking two
 ![alt text](/img/FDR/pic4.png)
 
 
-This is still a project in progress and thus, please let me know any suggestions you have (and if you think I am incapable of thinking them myself). The code is on GitHub but I have not added the comments yet.  
+This is still a project in progress. Please let me know of any suggestions you may have for me (and if you think I am incapable of thinking them myself). The code is on [GitHub](https://github.com/Regressionist) but I have not added the comments yet.  
 
+
+Thanks,
+Ashwin
