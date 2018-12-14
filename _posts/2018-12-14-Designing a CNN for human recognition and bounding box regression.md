@@ -32,5 +32,5 @@ I thought of changing the model itself and came up with the idea of stacking two
 This is still a project in progress. Please let me know of any suggestions you may have for me (and if you think I am incapable of thinking them myself). The code is on [GitHub](https://github.com/Regressionist) but I have not added the comments yet.  
 
 
-Thanks,
+Thanks,<br\>
 Ashwin
