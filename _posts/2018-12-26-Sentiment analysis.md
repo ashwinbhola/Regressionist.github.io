@@ -2,7 +2,7 @@
 layout: post
 title: Sentiment analysis
 subtitle: ...making a machine understand sentiments
-image: /img/Sentiment/cover.jpeg
+image: /img/Sentiment/cover.png
 ---
 
 
@@ -11,20 +11,26 @@ For me, the best way to learn anything is to do a project on it. I start by lear
 
 The first task I do when given any dataset is data exploration. The data was in a JSON file and each review was in the following format:
 >{
-  "reviewerID": "A2SUAM1J3GNN3B",
-  "asin": "0000013714",
-  "reviewerName": "J. McDonald",
-  "helpful": [2, 3],
-  "reviewText": "I bought this for my husband who plays the piano.  He is having a wonderful time playing these old hymns.  The music is at times hard to read because we think the book was published for singing from more than playing from. Great purchase though!",
-  "overall": 5.0,
-  "summary": "Heavenly Highway Hymns",
-  "unixReviewTime": 1252800000,
-  "reviewTime": "09 13, 2009"
+>  "reviewerID": "A2SUAM1J3GNN3B",
+>  "asin": "0000013714",
+>  "reviewerName": "J. McDonald",
+>  "helpful": [2, 3],
+>  "reviewText": "I bought this for my husband who plays the piano.  He is having a wonderful time playing these old hymns.  The music is at times hard to read because we think the book was published for singing from more than playing from. Great purchase though!",
+>  "overall": 5.0,
+>  "summary": "Heavenly Highway Hymns",
+>  "unixReviewTime": 1252800000,
+>  "reviewTime": "09 13, 2009"
 }
 
 Clearly, I only need the reviewText and overall fields. The overall field is the ratings, which will help me know the sentiment associated with the review. The ratings are on a scale of 1-5 (integers only). The following graph shows the distribution of ratings in the dataset: 
+
+
 ![alt text](/img/Sentiment/ratings.png)
+
+
 As visible, this is a quite imbalanced dataset. This can either be because people don't take the pain to write a bad review or because very few books out there are bad. I prefer to believe the first reason because even Chetan Bhagat books have good ratings on Amazon. So, clearly, there is a selection bias present in the dataset. To deal with it, either you can upsample the minority class (negative sentiment) or downsample the majority class (positive sentiment) i.e. apply Heckman correction. But before that, the question arises: which ratings will be designated as negative and positive reviews. I know that 4, and 5 are good reviews and 1, and 2 aren't. What about 3? Since this dataset has about 8 million reviews, I can let go of the reviews with a rating of 3. I do this because this integer has a different meaning for everyone i.e. for me, 3 means neither good nor bad but for someone else, it may mean extremely bad or quite good. Thus, either I can figure out a way to deal with this user bias or make an even intelligent choice to just let it go. The following graph shows the distribution of positive sentiment (class=1) and negative sentiment (class=0) after removing 3:
+
+
 ![alt text](/img/Setiment/afterremoving3.png) 
 
 
