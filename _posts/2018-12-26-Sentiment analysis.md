@@ -10,7 +10,7 @@ For me, the best way to learn anything is to do a project on it. I start by lear
 
 
 The first task I do when given any dataset is data exploration. The data was in a JSON file and each review was in the following format:
-'''
+<pre><code>
 {
   "reviewerID": "A2SUAM1J3GNN3B",
   "asin": "0000013714",
@@ -22,7 +22,7 @@ The first task I do when given any dataset is data exploration. The data was in 
   "unixReviewTime": 1252800000,
   "reviewTime": "09 13, 2009"
 }
-'''
+</code></pre>
 
 Clearly, I only need the reviewText and overall fields. The overall field is the rating, which will help me know the sentiment associated with the review. The ratings are on a scale of 1-5 (integers only). The following graph shows the distribution of ratings in the dataset: 
 
