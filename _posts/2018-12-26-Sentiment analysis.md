@@ -46,7 +46,7 @@ The first model I used was a simple RNN. I used three layers, first one being an
 Next, I decided to move to LSTM to combat the vanishing gradient problem of RNNs. LSTMs overcome this by having an extra recurrent state which can be thought of as the "memory" of the LSTM - and they use multiple gates which control the flow of information into and out of the memory. I used a bidirectional multilayer LSTM instead of the RNN keeping all other layers same in the above model. The concept behind bidirectional LSTM is simple: in addition to processing the words sequentially from start to the end of the sentence, they also process the sentence backward. And voila! the accuracy increased to 95%.
 
 
-To test if the model works only on sentences relating to books, I passed some general sentences to the model:
+To test if the model works only on sentences relating to books or can generalize to other areas as well, I passed some general sentences to the model:
 1. Our economy is in the middle of a revolution. Demonetization, the introduction of GST and recapitalization of banks may prove to be a game changer. Sentiment predicted: Positive
 2. We found a cool bar yesterday with a rooftop, we should go there!. Sentiment predicted: Positive
 3. Only one person at CDS this time. Sentiment predicted: Negative
