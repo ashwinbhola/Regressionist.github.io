@@ -28,10 +28,10 @@ Clearly, I only need the reviewText and overall fields. The overall field is the
 ![alt text](/img/Sentiment/ratings.png)
 
 
-As visible, this is a quite imbalanced dataset. This can either be because people don't take the pain to write a bad review or because very few books out there are bad. I prefer to believe the first reason because even Chetan Bhagat books have good ratings on Amazon. So, clearly, there is a selection bias present in the dataset. To deal with it, either you can upsample the minority class (negative sentiment) or downsample the majority class (positive sentiment) i.e. apply Heckman correction. But before that, the question arises: which ratings will be designated as negative and positive reviews. I know that 4, and 5 are good reviews and 1, and 2 aren't. What about 3? Since this dataset has about 8 million reviews, I can let go of the reviews with a rating of 3. I do this because this integer has a different meaning for everyone i.e. for me, 3 means neither good nor bad but for someone else, it may mean extremely bad or quite good. Thus, either I can figure out a way to deal with this user bias or make an even intelligent choice to just let it go. The following graph shows the distribution of positive sentiment (class=1) and negative sentiment (class=0) after removing 3:
+As visible, this is a quite imbalanced dataset. This can either be because people don't take the pain to write a bad review or because very few books out there are bad. I prefer to believe the first reason because even Chetan Bhagat books have good ratings on Amazon. So, clearly there is a selection bias present in the dataset. To deal with it, either you can upsample the minority class (negative sentiment) or downsample the majority class (positive sentiment) i.e. apply Heckman correction. But before that, the question arises: which ratings will be designated as negative and positive reviews. I know that 4, and 5 are good reviews and 1, and 2 aren't. What about 3? Since this dataset has about 8 million reviews, I can let go of the reviews with a rating of 3. I do this because this integer has a different meaning for everyone i.e. for me, 3 means neither good nor bad but for someone else, it may mean extremely bad or quite good. Thus, either I can figure out a way to deal with this user bias or make an even intelligent choice to just let it go. The following graph shows the distribution of positive sentiment (class=1) and negative sentiment (class=0) after removing 3:
 
 
-![alt text](/img/Setiment/afterremoving3.png) 
+![alt text](/img/Sentiment/afterremoving3.png) 
 
 
 This is a classic example of having more data vs. having the right data. The underlying data generating distribution will not be altered if I simply remove the rating 3 whereas keeping 3 may lead to a decrease in variance but increase in bias and I can't know without making a model if the increase in bias will be offset by the decrease in variance. After removing 3, I downsampled the reviews belonging to the majority class and made them equal in number to the minority class. Now, I have 1.4 million reviews equally distributed between positive and negative sentiments. I make a 75%/15%/10% train/validation/test split (random split). 
@@ -46,11 +46,13 @@ The first model I used was a simple RNN. I used three layers, first one being an
 Next, I decided to move to LSTM to combat the vanishing gradient problem of RNNs. LSTMs overcome this by having an extra recurrent state which can be thought of as the "memory" of the LSTM - and they use multiple gates which control the flow of information into and out of the memory. I used a bidirectional multilayer LSTM instead of the RNN keeping all other layers same in the above model. The concept behind bidirectional LSTM is simple: in addition to processing the words sequentially from start to the end of the sentence, they also process the sentence backward. And voila! the accuracy increased to 95%.
 
 
-To test if the model works only on sentences relating to books, I passed some sentences not related to books:
+To test if the model works only on sentences relating to books, I passed some general sentences to the model:
 1. Our economy is in the middle of a revolution. Demonetization, the introduction of GST and recapitalization of banks may prove to be a game changer. Sentiment predicted: Positive
 2. We found a cool bar yesterday with a rooftop, we should go there!. Sentiment predicted: Positive
 3. Only one person at CDS this time. Sentiment predicted: Negative
+ 
 
+I have put the code on [GitHub](https://github.com/Regressionist/Sentiment-analysis). Merry Christmas and Happy New Year everyone!
 
 Thanks,<br/>
 Ashwin
