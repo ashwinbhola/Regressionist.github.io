@@ -6,21 +6,23 @@ image: /img/Sentiment/cover.jpg
 ---
 
 
-For me, the best way to learn anything is to do a project on it. I start by learning the bare minimum required to start the project and then keep on learning on the way. I read articles and papers on the topic side by side to learn the subject in a more idiomatic way. I didn't start this project to dive into NLP but my aim was to learn how RNNs and LSTMs work. Any problem with sequential data would have done. I thought that it would be cool to try out Sentiment Analysis using RNN and LSTM as words in our sentences are also sequential. I didn't want to use any conventional datasets (like IMDB) for this task and downloaded the [Amazon books reviews](http://jmcauley.ucsd.edu/data/amazon/).   
+For me, the best way to learn anything is to do a project on it. I start by learning the bare minimum required to start the project and then keep on learning on the way. I read articles and papers on the topic side by side to learn the subject in a more idiomatic way. I didn't start this project to dive into NLP but my aim was to learn how RNNs and LSTMs work. Any problem with sequential data would have done. I finally decided to try out Sentiment Analysis using RNN and LSTM as words in our sentences are also sequential. I didn't want to use any conventional datasets (like IMDB) for this task and downloaded the [Amazon books reviews](http://jmcauley.ucsd.edu/data/amazon/).   
 
 
 The first task I do when given any dataset is data exploration. The data was in a JSON file and each review was in the following format:
->{
->  "reviewerID": "A2SUAM1J3GNN3B",
->  "asin": "0000013714",
->  "reviewerName": "J. McDonald",
->  "helpful": [2, 3],
->  "reviewText": "I bought this for my husband who plays the piano.  He is having a wonderful time playing these old hymns.  The music is at times hard to read because we think the book was published for singing from more than playing from. Great purchase though!",
->  "overall": 5.0,
->  "summary": "Heavenly Highway Hymns",
->  "unixReviewTime": 1252800000,
->  "reviewTime": "09 13, 2009"
+'''
+{
+  "reviewerID": "A2SUAM1J3GNN3B",
+  "asin": "0000013714",
+  "reviewerName": "J. McDonald",
+  "helpful": [2, 3],
+  "reviewText": "I bought this for my husband who plays the piano.  He is having a wonderful time playing these old hymns.  The music is at times hard to read because we think the book was published for singing from more than playing from. Great purchase though!",
+  "overall": 5.0,
+  "summary": "Heavenly Highway Hymns",
+  "unixReviewTime": 1252800000,
+  "reviewTime": "09 13, 2009"
 }
+'''
 
 Clearly, I only need the reviewText and overall fields. The overall field is the rating, which will help me know the sentiment associated with the review. The ratings are on a scale of 1-5 (integers only). The following graph shows the distribution of ratings in the dataset: 
 
