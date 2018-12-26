@@ -53,7 +53,7 @@ To test if the model works only on sentences relating to books or can generalize
  
 
 I have put the code on [GitHub](https://github.com/Regressionist/Sentiment-analysis). You can refer to this code if you want to know how to convert a pandas dataframe to a torchtext tabular dataset. <br/>
-Merry Christmas and Happy New Year everyone!
+Merry Christmas everyone!
 
 Thanks,<br/>
 Ashwin
