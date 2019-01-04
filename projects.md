@@ -13,7 +13,7 @@ subtitle: Some models I built
 + **Recommendation system**: Implemented content based filtering and collaborative filtering methods to generate recommendations for existing users. Achieved RMSE value of 0.94 on the test set (MovieLens 20M dataset)
 
 
-+[**Sentiment anlaysis**](https://github.com/Regressionist/Sentiment-analysis): Classified Amazon reviews as postive and negative using RNN and bidirectional multilayer LSTM. Achieved classification accuracy of 0.952 on the test set
++ [**Sentiment anlaysis**](https://github.com/Regressionist/Sentiment-analysis): Classified Amazon reviews as postive and negative using RNN and bidirectional multilayer LSTM. Achieved classification accuracy of 0.952 on the test set
 
 
 ## Research experience
