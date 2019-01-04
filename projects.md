@@ -4,16 +4,16 @@ title: Projects
 subtitle: Some models I built
 ---
 ## Projects
-+ **Face Detection and Recognition**: Designed a 8 layered CNN for person recognition and bounding box regression. Augmented the training dataset by horizontal flipping and adding gaussian noise to the images. Model achieved a classification accuracy (for recognizing the employee by employee ID) of 94% on test set and 0.71 IoU
++ <span style="color:black">(**Face Detection and Recognition**)[https://github.com/Regressionist/Face-Detection-and-Recognition]</span>: Designed a 8 layered CNN for person recognition and bounding box regression. Augmented the training dataset by horizontal flipping and adding gaussian noise to the images. Model achieved a classification accuracy (for recognizing the employee by employee ID) of 94% on test set and 0.71 IoU
 
 
-+ **Flight Delay Prediction**: Worked in a team of three to design a model to predict flight delays for flights departing from JFK airport based on historical data of flight delays, past weather data and US Bank holidays data. Achieved 0.78 AUC using ensemble methods
++ <span style="color:black">(**Flight Delay Prediction**)[https://github.com/Regressionist/Flight-Delay-Prediction]</span>: Worked in a team of three to design a model to predict flight delays for flights departing from JFK airport based on historical data of flight delays, past weather data and US Bank holidays data. Achieved 0.78 AUC using ensemble methods
 
 
 + **Recommendation system**: Implemented content based filtering and collaborative filtering methods to generate recommendations for existing users. Achieved RMSE value of 0.94 on the test set (MovieLens 20M dataset)
 
 
-+ **Sentiment anlaysis**: Classified Amazon reviews as postive and negative using RNN and bidirectional multilayer LSTM. Achieved classification accuracy of 0.952 on the test set
++<span style="color:black"> (**Sentiment anlaysis**)[https://github.com/Regressionist/Sentiment-analysis]</span>: Classified Amazon reviews as postive and negative using RNN and bidirectional multilayer LSTM. Achieved classification accuracy of 0.952 on the test set
 
 
 ## Research experience
