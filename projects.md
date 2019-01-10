@@ -4,7 +4,7 @@ title: Projects
 subtitle: Some models I built
 ---
 ## Projects
-+ **[Image Inpainting](https://github.com/Regressionist/Image-Inpaiting-DCGAN)**: Implemented DCGAN architecture (Deep Convolutional Generative Adversarial Networks) architecture to fill in the missing portions in an image (inspired by this [paper](http://iizuka.cs.tsukuba.ac.jp/projects/completion/data/completion_sig2017.pdf). With a fully-convolutional neural network, the images produced are both locally and globally consistent.
++ **[Image Inpainting](https://github.com/Regressionist/Image-Inpaiting-DCGAN)**: Implemented DCGAN architecture (Deep Convolutional Generative Adversarial Networks) architecture to fill in the missing portions in an image (inspired by this [paper](http://iizuka.cs.tsukuba.ac.jp/projects/completion/data/completion_sig2017.pdf)). With a fully-convolutional neural network, the images produced are both locally and globally consistent.
 
 
 + **[Face Detection and Recognition](https://github.com/Regressionist/Face-Detection-and-Recognition)**: Designed a 8 layered CNN for person recognition and bounding box regression. Augmented the training dataset by horizontal flipping and adding gaussian noise to the images. Model achieved a classification accuracy (for recognizing the employee by employee ID) of 94% on test set and 0.71 IoU
