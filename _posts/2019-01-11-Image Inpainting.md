@@ -23,7 +23,7 @@ Also, in the generator network, dilated convolutions are used at lower resolutio
 ### Enough theory. Show me the results!
 Masked images:
 
-![alt text](/img/Inpainting/maked.png)
+![alt text](/img/Inpainting/masked.png)
 
 Generated images:
 
