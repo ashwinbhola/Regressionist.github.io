@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Image inpainting
-subtitle: ....a project on GAN, finally!
+subtitle: ....been wanting to do this for a while
 image: /img/Inpainting/paintingbot.jpg
 ---
 
