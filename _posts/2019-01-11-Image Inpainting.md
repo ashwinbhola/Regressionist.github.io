@@ -20,7 +20,7 @@ The discriminator network is basically a stack of two networks, a global context
 
 Also, in the generator network, dilated convolutions are used at lower resolutions. This is important for the image completion task as the model can effectively “see” a larger area of the input image when computing each output pixel than with standard convolutional layers (contextual information). Dilated convolutions use kernels that are spread out, allowing to compute each output pixel with a much larger input area, while still using the same amount of parameters and computational power. 
 
-### Enough theory. Show me the results!
+## Enough theory. Show me the results!
 Masked images:
 
 ![alt text](/img/Inpainting/masked.png)
