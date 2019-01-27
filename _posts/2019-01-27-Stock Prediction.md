@@ -11,8 +11,7 @@ But, what if we could teach the model to learn itself which part of the input si
 
 Coming to the choice of input variables, I use the daily trading data (opening price and trading volume). Also, I added some technical indicators (description below) and macroeconomic variables (Exchange rate and Interest rate). Without a doubt, the macroeconomic conditions across regions also play critical roles in influencing the performance of the stock market. Specifically, I chose US dollar index as the proxy for the exchange rate. It is acknowledged that the US dollar plays the most important role in the monetary market. Therefore, it alone could be enough to capture the impact from the monetary market to the stock market. For the interest rate, I use the federal funds rate in the US. For the choice of technical indicators, I referred to this [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180944) and have briefly described them below.
 
-<pre><code>
-1. Moving average convergence divergence: It is supposed to reveal changes in the strength, direction, momentum, and duration of a trend in a stock's price
+<pre><code>1. Moving average convergence divergence: It is supposed to reveal changes in the strength, direction, momentum, and duration of a trend in a stock's price
 2. Commodity Channel Index: A very common tool for traders in identifying cyclical trends in commodities
 3. Average true range: Measures the volatility of prices
 4. Bollinger Band: Provides a relative definition of high and low prices of a market
