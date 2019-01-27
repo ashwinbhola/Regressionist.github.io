@@ -38,7 +38,7 @@ Now, it may be true that the model is performing well only on the period for for
 
 ![alt text](/img/Stocks/close_price.png)
 
-##Show me the code
+## Show me the code
 
 Code: [GitHub](https://github.com/Regressionist/Stock-prediction)
 
