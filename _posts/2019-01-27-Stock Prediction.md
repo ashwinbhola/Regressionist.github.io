@@ -20,7 +20,7 @@ Coming to the choice of input variables, I use the daily trading data (opening p
 6. 10-day moving average
 7. 6-month momentum
 8. Price rate of change: A pure momentum oscillator that measures the percent change in price from one period to the next
-</pre></code>
+</code></pre>
 
 In the model, I use an input attention mechanism in the encoder (a GRU) which will learn to focus on the relevant driving series among the inputs. The encoder is followed by a decoder (another GRU) which consists of a separate temporal attention mechanism which will learn to pay attention to the relevant encoder's hidden state across the time steps we feed to it. By paying attention, I mean that the inputs are transformed into a context vector which indicates how much attention the next layer of the network should pay to that particular input. Before feeding in the input features and target variables, I normalize (different from standardizing) both of them. I train the model on 4 years data of stock index and the validation set consists of the stock index prices of 2 months and the 2 months stock prices after that are used for the test set.
 
