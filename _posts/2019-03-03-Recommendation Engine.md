@@ -5,13 +5,15 @@ subtitle: ....similar to the items you viewed :p
 image: /img/Recommendation/cover.jpg
 ---
 
+This post is a little late than earlier ones. The semester has started and between all the classes and HWs, I get less time to focus on the projects I want to do. Other than that I had a lot of interviews for summer internship in the past month but no more interviews now :)
+
 You probably are familiar with the problem with the internet- too much information and too little time. Machine learning drives the content you see everywhere on the internet, from friend suggestions on Facebook to where you might work on LinkedIn. Two philosophical approaches to do this are: recommend what is popular or try to understand the user's taste. The personalized recommendations can either be derived using content-based or collaborative filtering methods (although modern recommendation systems combine both the approaches). Content-based methods use similarity between products as a measure and collaborative filtering tries to understand the interactions between users and items.
 
 Collaborative filtering works on the principle of matrix factorization. Which matrix? Users as rows vs products as columns (or vice-versa) and ratings as values of the matrix. The ratings can either be binary (like vs hate) or discrete ({1,2,3,4,5}) or continuous ([1,5]). Typically, this matrix is highly sparse and the job of a data scientist is to construct a mapping that learns to predict a user’s interest based on the analysis of tastes and preference of other users in the system and implicitly inferring “similarity” between them. The assumption driving this is that people with similar tastes will also have the same opinion on an item than two people randomly chosen. 
 
 Coming back to matrix factorization, if X is your user-item matrix, then using Singular Value Decomposition, you can factorize your matrix as:
 
-![img](http://latex.codecogs.com/svg.latex?X%3DU%5CSigmaV%5ET%3DU%5CSigma%5E%7B0.5%7D%28V%5CSigma%5E%7B0.5%7D%29%5ET%3DAB%5ET)
+![img](http://latex.codecogs.com/svg.latex?X%3DU%5CSigma%5E%7B0.5%7D%28V%5CSigma%5E%7B0.5%7D%29%5ET%3DAB%5ET)
 
 Each row of U represents the latent factors of each row of X, each column of V contains latent dimensions of columns of X and ![img](http://latex.codecogs.com/svg.latex?%5CSigma) is a diagonal matrix holding the weight of each latent factor. Thus, A and B hold the k (chosen while hyperparameter tuning) latent dimensions connecting the users and movies. The final prediction for user i on product j is the inner product between a user's preference for each latent factor and the product's strength on that factor. An example of how some movies load on two latent variables:
 
