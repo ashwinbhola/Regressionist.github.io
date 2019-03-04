@@ -4,6 +4,11 @@ title: Collaborative filtering using Autoencoders
 subtitle: ....similar to the items you viewed :p
 image: /img/Recommendation/cover.jpg
 ---
+MathJax.Hub.Config({
+tex2jax: {
+inlineMath: [ ['$','$'], ['\\(','\\)'] ]
+}
+});
 
 You probably are familiar with the problem with the internet- too much information and too little time. Machine learning drives the content you see everywhere on the internet, from friend suggestions on Facebook to where you might work on LinkedIn. Two philosophical approaches to do this are: recommend what is popular or try to understand the user's taste. The personalized recommendations can either be derived using content-based or collaborative filtering methods (although modern recommendation systems combine both the approaches). Content-based methods use similarity between products as a measure and collaborative filtering tries to understand the interactions between users and items.
 
