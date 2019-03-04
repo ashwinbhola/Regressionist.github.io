@@ -10,7 +10,7 @@ You probably are familiar with the problem with the internet- too much informati
 Collaborative filtering works on the principle of matrix factorization. Which matrix? Users as rows vs products as columns (or vice-versa) and ratings as values of the matrix. The ratings can either be binary (like vs hate) or discrete ({1,2,3,4,5}) or continuous ([1,5]). Typically, this matrix is highly sparse and the job of a data scientist is to construct a mapping that learns to predict a user’s interest based on the analysis of tastes and preference of other users in the system and implicitly inferring “similarity” between them. The assumption driving this is that people with similar tastes will also have the same opinion on an item than two people randomly chosen. 
 
 Coming back to matrix factorization, if X is your user-item matrix, then using Singular Value Decomposition, you can factorize your matrix as:
-![img](%5C%5B+X%3DU%5CSigmaV%5ET%3DU%5CSigma%5E%7B0.5%7D%28V%5CSigma%5E%7B0.5%7D%29%5ET%3DAB%5ET+%5C%5D)
+![img](http://latex.codecogs.com/svg.latex?%5C%5B+X%3DU%5CSigmaV%5ET%3DU%5CSigma%5E%7B0.5%7D%28V%5CSigma%5E%7B0.5%7D%29%5ET%3DAB%5ET+%5C%5D)
 Each row of U represents the latent factors of each row of X, each column of V contains latent dimensions of columns of X and `$\Sigma$` is a diagonal matrix holding the weight of each latent factor. Thus, A and B hold the k (chosen while hyperparameter tuning) latent dimensions connecting the users and movies. The final prediction for user i on product j is the inner product between a user's preference for each latent factor and the product's strength on that factor. An example of how some movies load on two latent variables:
 
 ![alt text](/img/Recommendation/two_dim.png)
