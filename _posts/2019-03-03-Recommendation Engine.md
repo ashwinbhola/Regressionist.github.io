@@ -11,7 +11,7 @@ Collaborative filtering works on the principle of matrix factorization. Which ma
 
 Coming back to matrix factorization, if X is your user-item matrix, then using Singular Value Decomposition, you can factorize your matrix as:
 
-![img](http://latex.codecogs.com/svg.latex?X%3DU%5CSigma%28V%5ET%3DU%5CSigma%5E%7B0.5%7D%28V%5CSigma%5E%7B0.5%7D%29%5ET%3DAB%5ET)
+![img](http://latex.codecogs.com/svg.latex?X%3DU%5CSigmaV%5ET%3DU%5CSigma%5E%7B0.5%7D%28V%5CSigma%5E%7B0.5%7D%29%5ET%3DAB%5ET)
 
 Each row of U represents the latent factors of each row of X, each column of V contains latent dimensions of columns of X and ![img](http://latex.codecogs.com/svg.latex?%5CSigma) is a diagonal matrix holding the weight of each latent factor. Thus, A and B hold the k (chosen while hyperparameter tuning) latent dimensions connecting the users and movies. The final prediction for user i on product j is the inner product between a user's preference for each latent factor and the product's strength on that factor. An example of how some movies load on two latent variables:
 
