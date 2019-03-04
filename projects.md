@@ -4,7 +4,7 @@ title: Projects
 subtitle: Some models I built
 ---
 ## Projects
-+ **[Recommendation system](https://github.com/Regressionist/Autoencoder-based-Recommendation-System)**: Developed a model for the rating prediction task in recommender systems using Autoencoders. Refined the model using dense reefeding (to combat the sparsity of the user-item matrix) and dropout regularization. Achieved 0.925 RMSE on the holdout set of Amazon android apps ratings
++ **[DeepRecommender](https://github.com/Regressionist/Autoencoder-based-Recommendation-System)**: Developed a model for the rating prediction task in recommender systems using Autoencoders. Refined the model using dense reefeding (to combat the sparsity of the user-item matrix) and dropout regularization. Achieved 0.925 RMSE on the holdout set of Amazon android apps ratings
 
 
 + **[Financial time-series forecast](https://github.com/Regressionist/Stock-prediction-Dual-Attention-based-RNN-)**: Devised a Dual-Stage Attention-Based RNN to predict DJIA stock closing prices for the next 50 days from historic data. Incorporated feature engineering techniques including moving averages and exponential moving averages. Achieved 92% directional accuracy on the test set
