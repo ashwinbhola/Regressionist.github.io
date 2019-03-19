@@ -19,7 +19,7 @@ subtitle: Some models I built
 + [**Flight Delay Prediction**](https://github.com/Regressionist/Flight-Delay-Prediction): Worked in a team of three to design a model to predict flight delays for flights departing from JFK airport based on historical data of flight delays, past weather data and US Bank holidays data. Achieved 0.78 AUC using ensemble methods
 
 
-+ [**Sentiment anlaysis**](https://github.com/Regressionist/Sentiment-analysis): Classified Amazon reviews as postive and negative using RNN and bidirectional multilayer LSTM. Achieved classification accuracy of 0.952 on the test set
++ [**Sentiment analysis**](https://github.com/Regressionist/Sentiment-analysis): Classified Amazon reviews as postive and negative using RNN and bidirectional multilayer LSTM. Achieved classification accuracy of 0.952 on the test set
 
 
 ## Research experience
