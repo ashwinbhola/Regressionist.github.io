@@ -15,7 +15,16 @@ subtitle: Who am I?
 
 <i class="fa fa-globe"></i> Born in *Chandigarh, India*. Did my schooling from *Chandigarh* and Bachelors from *IIT Delhi, India*. I moved to *New York* in 2018 to pursue MS in Data Science at NYU
 
-<table style="border:0">
+
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+
+<table>
   <tr>
     <td><i class="fa fa-institution"></i></td>
     <td>Graduate Student at Center for Data Science, New York University</td>
