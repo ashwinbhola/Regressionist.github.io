@@ -27,12 +27,11 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  font-style: bold;
+  font-weight: bold;
   color: #404040;
 }
 a:hover,
 a:focus {
-  font-style: bold;
   color: #0085a1;
 }
 blockquote {
