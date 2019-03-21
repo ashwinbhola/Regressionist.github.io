@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 subtitle: Some models I built
+css:
 ---
 ## Projects
 + **[DeepRecommender](https://github.com/Regressionist/Autoencoder-based-Recommendation-System)**: Developed a model for the rating prediction task in recommender systems using Autoencoders. Refined the model using dense refeeding (to combat the sparsity of the user-item matrix) and dropout regularization. Achieved 0.925 RMSE on the holdout set of Amazon android apps ratings
