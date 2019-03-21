@@ -24,7 +24,7 @@ description: Blog
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "aboutme"
+  About Me: "about"
   Projects: "projects"
   #Resources:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
