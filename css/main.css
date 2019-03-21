@@ -31,6 +31,7 @@ a {
 }
 a:hover,
 a:focus {
+  font-style: bold;
   color: #0085a1;
 }
 blockquote {
