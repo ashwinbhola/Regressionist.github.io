@@ -29,14 +29,14 @@ h1,h2,h3,h4,h5,h6 {
 a {
   font-weight: bold;
   text-decoration: underline;
-  color: #808080;
+  color: #404040;
 }
 a:hover,
 a:focus {
   color: #0085a1;
 }
 blockquote {
-  color: #404040;
+  color: #808080;
   font-style: italic;
 }
 blockquote p:first-child {
