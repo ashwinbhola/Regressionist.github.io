@@ -36,7 +36,7 @@ a:focus {
   color: #0085a1;
 }
 blockquote {
-  color: #808080;
+  color: #404040;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -131,7 +131,7 @@ img {
 .navbar-custom .nav li a {
   text-decoration: none;
   font-weight: 800;
-  color: #808080;
+  color: #404040;
 }
 
 .navbar-custom .navbar-brand:hover,
