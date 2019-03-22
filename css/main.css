@@ -28,7 +28,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 a {
   font-weight: bold;
-  color: #005da1;
+  text-decoration: underline;
+  color: #808080;
 }
 a:hover,
 a:focus {
@@ -121,14 +122,16 @@ img {
 
 .navbar-custom .nav li a {
   text-transform: uppercase;
+  text-decoration: none;
   font-size: 12px;
   letter-spacing: 1px;
 }
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
+  text-decoration: none;
   font-weight: 800;
-  color: {{ site.navbar-text-col }};
+  color: #808080;
 }
 
 .navbar-custom .navbar-brand:hover,
