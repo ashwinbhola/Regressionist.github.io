@@ -23,8 +23,7 @@ subtitle: Some models I built
 
 
 ## Research experience
-+ **Information processing in Genetic networks (Harvard Medical School)**: Modeled and simulated a gene regulatory network with positive and
-negative feedback loops using Monte Carlo simulation and Principal Component Analysis. Statistical analysis and analytical calculations correlated strongly with the experimental observations
++ **Information processing in Genetic networks (Harvard Medical School)**: Simulated a Markov chain using the Monte Carlo method to mimic a genetic network. Used Principal Component analysis for feature engineering and logistic regression for classification. Statistical analysis and analytical calculations correlated strongly with the experimental observations
 
 
 + **Diagnostic kit optmization (IIT Delhi)**: Optimized the performance of a diagnostic device with respect to the concentration, temperature, and humidity. Applied nonlinear regression analysis on experimental data sets yielding R<sup>2</sup> values as high as 0.98 
