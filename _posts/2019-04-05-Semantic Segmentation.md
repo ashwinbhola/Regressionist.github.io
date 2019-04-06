@@ -36,6 +36,7 @@ Here, C is the factor determining how much importance to give to uncertainty los
 ![alt text](/img/Cityscapes/main_3.png)
 ![alt text](/img/Cityscapes/main_4.png)
 
+You can notice the streaks of white lines near the edges of the predicted segmentation maps. We are still trying to improve that. If you have any idea on how to correct that, let me know!
  
 ### Show me the code
 
