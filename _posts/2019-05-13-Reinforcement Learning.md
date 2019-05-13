@@ -37,7 +37,7 @@ Just from observing the time it takes to learn, it is impossible for an RL based
 
 Other than that, I found RL to be too much dependent on the right parameters. As an example, even if the learning rate is changed from 0.0025 to 0.001, the learning abilities of the agent change drastically which isn't a problem with supervised learning. Personally, I don't like such sensitive systems. One  reason  we  think  why  transfer  learning didn’t work is that we trained the agent on only one game before testing its performance on another game. We feel that we should have trained it on at least 5-6 games before testing the performance on another game. Also, another method to try can be random sampling from experience replay of n different games together i.e. the agent is trained on multiple games simultaneously and not consecutively which is similar to how humans learn.
 
-### Show me the agent playing game
+### Show me the agent playing Pong
 
 ![alt text](/img/MetaRL/pong.gif)
 
