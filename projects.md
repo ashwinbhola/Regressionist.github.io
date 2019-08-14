@@ -3,7 +3,25 @@ layout: page
 title: Projects
 subtitle: Some models I built
 ---
+
+## Experience
++ **IBM | Healthcare & Life Sciences**: Responsible for successful delivery of data science solutions and services in a client consulting environment. Built end-to-end systems to process and analyze text, PDF documents and news articles. Developed entity and relationship extraction models using n-gram similarities and Markov chain achieving MAP of 0.5. Employed dynamic systems that improve learning based on outcomes to get smarter with each iteration
+
+
++ **Harvard Medical School**: Simulated a Markov chain using the Monte Carlo method to mimic a genetic network. Used Principal Component analysis for feature engineering and logistic regression for classification. Statistical analysis and analytical calculations correlated strongly with the experimental observations
+
+
++ **IIT Delhi**: Optimized the performance of a diagnostic device with respect to the concentration, temperature, and humidity. Applied nonlinear regression analysis on experimental data sets yielding R<sup>2</sup> values as high as 0.98 
+
+
+
 ## Projects
++ **[Knowledge Transfer in Reinforcement Learning](https://github.com/Regressionist/Meta-Reinforcement-Learning)**: Analyzed RL agents in the context of generalizing prior experiences to new unseen environments. Trained the agent using Deep-Q leaning with experience replay algorithm coupled with different transfer learning regimes. Employed the policy learned in one environment to evaluate the difference in the agent’s learning time in a second environment
+
+
++ **[Semantic Segmentation](https://github.com/Regressionist/Semantic-Segmentation-UNet)**: Implemented the Unet architecture with pixel shuffle for dense prediction on Cityscapes dataset. Devised a new training loss function to enforce background prediction for inconsistent structures. Achieved 0.826 mean IoU on the holdout set
+
+
 + **[DeepRecommender](https://github.com/Regressionist/Autoencoder-based-Recommendation-System)**: Developed a model for the rating prediction task in recommender systems using Autoencoders. Refined the model using dense refeeding (to combat the sparsity of the user-item matrix) and dropout regularization. Achieved 0.925 RMSE on the holdout set of Amazon android apps ratings
 
 
@@ -22,8 +40,3 @@ subtitle: Some models I built
 + [**Sentiment analysis**](https://github.com/Regressionist/Sentiment-analysis): Classified Amazon reviews as postive and negative using RNN and bidirectional multilayer LSTM. Achieved classification accuracy of 0.952 on the test set
 
 
-## Research experience
-+ **Information processing in Genetic networks (Harvard Medical School)**: Simulated a Markov chain using the Monte Carlo method to mimic a genetic network. Used Principal Component analysis for feature engineering and logistic regression for classification. Statistical analysis and analytical calculations correlated strongly with the experimental observations
-
-
-+ **Diagnostic kit optmization (IIT Delhi)**: Optimized the performance of a diagnostic device with respect to the concentration, temperature, and humidity. Applied nonlinear regression analysis on experimental data sets yielding R<sup>2</sup> values as high as 0.98 
