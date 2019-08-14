@@ -136,6 +136,16 @@ img {
   color: #404040;
 }
 
+
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav li{
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+
+
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
