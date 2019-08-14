@@ -129,7 +129,8 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  padding:10;
+  padding-right: 100px;
+  padding-left:100px;
   text-decoration: none;
   font-weight: 800;
   color: #404040;
