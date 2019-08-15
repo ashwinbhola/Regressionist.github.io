@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Some models I built
+subtitle: Driving impact through Data
 ---
 
 ## Experience
