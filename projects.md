@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Driving impact through Data
+subtitle: Driving impact through Data Science
 ---
 
 ## Experience
