@@ -5,7 +5,7 @@ subtitle: Driving impact through Data Science
 ---
 
 ## Experience
-+ **IBM (Watson Healthcare & Life Sciences)**: Responsible for successful delivery of data science solutions and services in a client consulting environment. Built end-to-end systems to process and analyze text, PDF documents and news articles. Developed entity and relationship extraction models using n-gram similarities and Markov chain achieving MAP of 0.5. Employed dynamic systems that improve learning based on outcomes to get smarter with each iteration
++ **IBM (Watson Healthcare & Life Sciences)**: Responsible for the successful delivery of data science solutions and services in a client consulting environment. Built an end-to-end system to process, manipulate, and analyze text from PDF documents and news articles. Developed entity and relationship extraction models using n-gram similarities and Markov chain achieving F1 score of 0.5. Employed dynamic systems that improve learning based on outcomes to get smarter with each iteration
 
 
 + **Harvard Medical School**: Simulated a Markov chain using the Monte Carlo method to mimic a genetic network. Used Principal Component analysis for feature engineering and logistic regression for classification. Statistical analysis and analytical calculations correlated strongly with the experimental observations
