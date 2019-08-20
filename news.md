@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-subtitle: The beginning is always today
+subtitle: Rumor has it...
 ---
 
 + August 2019: Offered a full time position as a Data Scientist at **IBM Healthcare & Life Sciences**
