@@ -5,8 +5,10 @@ subtitle: Making a comeback to Healthcare!
 image: /img/IBM/logo.png
 ---
 
->A learning from a mistake is a learning iff it's not repeated.
->>A wise person
+~~~~
+A learning from a mistake is a learning iff it's not repeated.
+-A wise person
+~~~~
 
 
 This post is about redefined expectations. For someone like me, with no industry experience whatsoever, my summer was an eye-opening experience. Before the internship started, I would tell myself that I am so good in the Machine Learning aspect of Data Science (I've got references), that I would probably blow their minds. Little that I knew, that I won't spend more than 10% of my entire time of the internship designing models. Ok, I am getting ahead of myself. 
