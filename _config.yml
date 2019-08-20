@@ -26,6 +26,7 @@ navbar-links:
   Home: ""
   About Me: "about"
   Projects: "projects"
+  News: "news"
   #Resources:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
