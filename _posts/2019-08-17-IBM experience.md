@@ -13,7 +13,7 @@ A learning from a mistake is a learning iff it's not repeated.
 
 This post is about redefined expectations. For someone like me, with no industry experience whatsoever, my summer was an eye-opening experience. Before the internship started, I would tell myself that I am so good in the Machine Learning aspect of Data Science (I've got references), that I would probably blow their minds. Little did I know that I won't spend more than 10% of my entire time of the internship designing models. Ok, I am getting ahead of myself. 
 
-Let's start with what the internship was. So, I worked for 10 weeks in the Healthcare & Life-Sciences sector of IBM. This division provides consulting services to pharmaceutical companies, hospitals, and other medical organizations. As in most of the consulting firms, they have different consultant bands, and after MS, people usually join as a senior consultant and that is why they have a 2 years work experience prerequisite as the most basic filter for this position. How did I get through the filter with no prior experience? 
+Let's start with what the internship was. So, I worked for 10 weeks in the Healthcare & Life Sciences sector of IBM. This division provides consulting services to pharmaceutical companies, hospitals, and other medical organizations. As in most of the consulting firms, they have different consultant bands, and after MS, people usually join as a senior consultant and that is why they have a 2 years work experience prerequisite as the most basic filter for this position. How did I get through the filter with no prior experience? 
 
 <img src="/img/IBM/shrug.gif" height='250' align="middle"/>
 
