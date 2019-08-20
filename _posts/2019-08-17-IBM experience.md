@@ -5,8 +5,8 @@ subtitle: Making a comeback to Healthcare!
 image: /img/IBM/logo.png
 ---
 
-<pre><code> A learning from a mistake is a learning iff it's not repeated.
-A wise person</code></pre>
+>A learning from a mistake is a learning iff it's not repeated.
+>>A wise person
 
 
 This post is about redefined expectations. For someone like me, with no industry experience whatsoever, my summer was an eye-opening experience. Before the internship started, I would tell myself that I am so good in the Machine Learning aspect of Data Science (I've got references), that I would probably blow their minds. Little that I knew, that I won't spend more than 10% of my entire time of the internship designing models. Ok, I am getting ahead of myself. 
@@ -21,7 +21,7 @@ Dig deeper, shall we? This solution is not a software platform or an ML model (a
 
 I got a chance to be a part of sales meetings (thanks [Michele](https://www.linkedin.com/in/michele-pesanello-9581aa38)). Although I didn't say/present anything during the meetings because I was just an observer, I am glad about this because those meetings are like a date with a very demanding and stringent person and I am not good on such dates. The company sends its best people usually on sales meetings to evaluate IBM and see if they are worth spending millions of dollars on. Oh, before I forget, you have so many meetings in consulting every day, and most of them are with different people. On some days, I'd have meetings all day and on the other fine days, I'd still have 2-3 meetings one hour each.
 
-![alt text](/img/IBM/tenor.gif=2x)
+![alt text](/img/IBM/tenor.gif =2x)
 
 I think I may have lost track (seem a little out of practice, do I?). Coming back to what I did Data Science wise, the project was mainly related to NLP. The most significant parts of the project, however, were data preprocessing and labeling the data ourselves to create a training and test set for the supervised models. In the ML classes that we take, generally, we have the data in the most structured form, but believe me, the data in real life is so crude and unstructured. The source of the data was PDF documents which even though aesthetically appealing are a horrible way of storing text. So I also worked on extracting processing and manipulating the data from those files. The whole team, including the project manager, spent their weekends (even the GoT finale weekend) manually annotating the extracted data. After we had the desired rows and columns, the model used for information extraction was Maximum Entropy Markov chains. The outputs again had to be processed and converted into a form desirable for the next steps (making a dashboard). 
 
