@@ -1,12 +1,10 @@
 ---
 layout: minimal
-use-site-title: true
-title: News
-subtitle: Rumor has it...
+
 ---
 
 Optimization and Computational Linear Algebra Recitation - Fall 2019
-===============
+---------------
 
 + August 2019: Offered a full time position as a Data Scientist at **IBM Healthcare & Life Sciences**
 
