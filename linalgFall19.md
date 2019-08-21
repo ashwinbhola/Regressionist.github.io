@@ -17,7 +17,7 @@ Ashwin's Office hours: Thursday, 2:00 PM - 2:50 PM<br>
 <h4><font color="darkred">Online Video Lectures</font></h4>
 <font size="3">
 There are many videos that can be found online regarding linear algebra and optimization:<br>
-<ol>
+<ol style='font-family:BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;'>
 <li> Prof. Gilbert Strang has a full set of linear algebra video lectures from his MIT course available here: <a href='http://web.mit.edu/18.06/www/videos.shtml'>18.06 Linear Algebra</a></li>
 <li> Prof. Stephen Boyd teaches a fantastic course on Linear Dynamical Systems at Stanford that could really be entitled Linear Algebra with Applications to Dynamical Systems: <a href='https://see.stanford.edu/Course/EE263'>Linear Dynamical Systems</a></li>
 <li> Prof. Stephen Boyd (one author of our convex optimization textbook) also has his courses on convex optimization available online (in 2 parts): <a href='https://see.stanford.edu/Course/EE364A'>Convex Optimization I</a> and <a href='(https://see.stanford.edu/Course/EE364B'>Convex Optimization II</a></li>
