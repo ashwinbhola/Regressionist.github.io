@@ -6,10 +6,7 @@ layout: minimal
 Optimization and Computational Linear Algebra Recitation - Fall 2019
 ---------------
 
-+ August 2019: Offered a full time position as a Data Scientist at **IBM Healthcare & Life Sciences**
+<font color="red"><b>Loay of the land</b></font>
+Class: Tuesday, 12:30 PM - 2:10 PM, 12WV G08
 
-+ August 2019: Happy to be selected as the section leader for Fall 2019 graduate course **Optimization & Computational Linear Algebra** at NYU CDS
-
-+ August 2019: Happy to be selected as the recitation leader for Fall 2019 undergrad course **Probability, Statistics, & Decision Making** at NYU Courant
-
-+ February 2019: Excited to share that I'll be interning at **IBM Healthcare & Life Sciences** this summer
+Recitation: Wednesday, 2:00 PM - 2:50 PM, 19W4 101
