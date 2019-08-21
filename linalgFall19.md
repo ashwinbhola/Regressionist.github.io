@@ -5,8 +5,8 @@ layout: minimal
 
 ### Optimization and Computational Linear Algebra Recitation - Fall 2019
 
-<h4><font color="darkred">Lay of the land</h4></font>
-<font size="6">
+<h4><font color="darkred">Lay of the land</font></h4>
+<font size="3">
 Class: Tuesday, 12:30 PM - 2:10 PM, 12WV G08
 Léo's Office hours: TBA (or by appointment)
 
