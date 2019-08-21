@@ -27,7 +27,7 @@ There are many videos that can be found online regarding linear algebra and opti
 <li> Prof. Gilbert Strang has a full set of linear algebra video lectures from his MIT course available here: <a href='http://web.mit.edu/18.06/www/videos.shtml'>18.06 Linear Algebra</a></li>
 <li> Prof. Stephen Boyd teaches a fantastic course on Linear Dynamical Systems at Stanford that could really be entitled Linear Algebra with Applications to Dynamical Systems: <a href='https://see.stanford.edu/Course/EE263'>Linear Dynamical Systems</a></li>
 <li> Prof. Stephen Boyd (one author of our convex optimization textbook) also has his courses on convex optimization available online (in 2 parts): <a href='https://see.stanford.edu/Course/EE364A'>Convex Optimization I</a> and <a href='(https://see.stanford.edu/Course/EE364B'>Convex Optimization II</a></li>
-<li> YouTuber 3Blue1Brown has a nice set of videos on linear algebra online with beautiful illustrations:<a href='https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab'>Essence of Linear Algebra</a></li>
+<li> YouTuber 3Blue1Brown has a nice set of videos on linear algebra online with beautiful illustrations: <a href='https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab'>Essence of Linear Algebra</a></li>
 </ol>
 </font>
 <br>
