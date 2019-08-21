@@ -5,6 +5,9 @@ title: News
 subtitle: Rumor has it...
 ---
 
+Optimization and Computational Linear Algebra Recitation - Fall 2019
+===============
+
 + August 2019: Offered a full time position as a Data Scientist at **IBM Healthcare & Life Sciences**
 
 + August 2019: Happy to be selected as the section leader for Fall 2019 graduate course **Optimization & Computational Linear Algebra** at NYU CDS
