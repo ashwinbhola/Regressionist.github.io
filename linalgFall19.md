@@ -5,7 +5,7 @@ layout: minimal
 
 <font style='font-family:BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;'>
 
-### Optimization and Computational Linear Algebra Recitation - Fall 2019
+<h3> Optimization and Computational Linear Algebra Recitation - Fall 2019</h3>
 <br>
 
 
