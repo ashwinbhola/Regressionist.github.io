@@ -1,5 +1,6 @@
 ---
 layout: minimal
+use-site-title: true
 title: News
 subtitle: Rumor has it...
 ---
