@@ -54,6 +54,5 @@ There are many videos that can be found online regarding linear algebra and opti
 <br>
 </div>
 
-```
-Most of the questions in the recitations and concept checks are from the resources mentioned above or from Prof. Afonso's DS-GA 1014 Fall 2018 lectures
-```
+
+>Most of the questions in the recitations and concept checks are from the resources mentioned above or from Prof. Afonso's DS-GA 1014 Fall 2018 lectures
