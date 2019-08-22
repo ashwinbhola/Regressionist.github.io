@@ -37,7 +37,16 @@ There are many videos that can be found online regarding linear algebra and opti
 <h4><font color="darkred">Recitations</font></h4>
 <font size="3">
 <ol>
-<li>Vector Spaces:</li>
+<li>Week 1: <a href='/Recitations/Lab1.pdf'>Vector Spaces</a></li>
+</ol>
+</font>
+<br>
+
+
+<h4><font color="darkred">Concept checks</font></h4>
+<font size="3">
+<ol>
+<li>Week 1: <a href='/ConceptChecks/ConceptCheck1.pdf'>Vector Spaces</a></li>
 </ol>
 </font>
 
