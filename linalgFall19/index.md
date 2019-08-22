@@ -17,7 +17,7 @@ Class: Tuesday, 12:30 PM - 2:10 PM, 12WV G08<br>
 Léo's Office hours: TBA (or by appointment)<br>
 <a href='https://leomiolane.github.io/linalg-for-ds.html'>Lecture material</a><br><br>
 
-Section Leader: Ashwin Bhola
+Section Leader: Ashwin Bhola<br>
 Recitation: Wednesday, 2:00 PM - 2:50 PM, 19W4 101<br>
 Ashwin's Office hours: TBA<br>
 </font>
