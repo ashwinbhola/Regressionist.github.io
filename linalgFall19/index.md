@@ -21,22 +21,18 @@ Ashwin's Office hours: Thursday, 2:00 PM - 2:50 PM<br>
 <br>
 
 
-<h4><font color="darkred">Online Video Lectures</font></h4>
+<h4><font color="darkred">Resources</font></h4>
 <font size="3">
 There are many videos that can be found online regarding linear algebra and optimization:<br>
 <ol>
-<li> Prof. Gilbert Strang has a full set of linear algebra video lectures from his MIT course available here: <a href='http://web.mit.edu/18.06/www/videos.shtml'>18.06 Linear Algebra</a></li>
-<li> Prof. Stephen Boyd teaches a fantastic course on Linear Dynamical Systems at Stanford that could really be entitled Linear Algebra with Applications to Dynamical Systems: <a href='https://see.stanford.edu/Course/EE263'>Linear Dynamical Systems</a></li>
-<li> Prof. Stephen Boyd (one author of our convex optimization textbook) also has his courses on convex optimization available online (in 2 parts): <a href='https://see.stanford.edu/Course/EE364A'>Convex Optimization I</a> and <a href='(https://see.stanford.edu/Course/EE364B'>Convex Optimization II</a></li>
+<li> If you are interested in a book that focuses more on applications to data science and engineering, take a look at <a href='http://web.stanford.edu/~boyd/vmls/'>Introduction to Applied Linear Algebra</a>, by Boyd and Vandenberghe</li>
+<li> The all time classic, Introduction to Linear Algebra by Prof. Gilbert Strang</li>
+<li> Also, Prof. Gilbert Strang has a full set of linear algebra video lectures from his MIT course available here: <a href='http://web.mit.edu/18.06/www/videos.shtml'>18.06 Linear Algebra</a>. This contains some material not relevant to DS-GA 1014, but it's always good to learn some things from the sensei himself</li>
 <li> YouTuber 3Blue1Brown has a nice set of videos on linear algebra online with beautiful illustrations: <a href='https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab'>Essence of Linear Algebra</a></li>
 </ol>
 </font>
 <br>
-</div>
 
-> Most of the questions in the recitations and concept checks are from the books mentioned above
-
-<div style='font-family:BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;'>
 <h4><font color="darkred">Recitations</font></h4>
 <font size="3">
 <ol>
@@ -52,5 +48,7 @@ There are many videos that can be found online regarding linear algebra and opti
 <li>Week 1: <a href='/linalgFall19/ConceptChecks/ConceptCheck1.pdf'>Vector Spaces</a></li>
 </ol>
 </font>
-
+<br>
 </div>
+
+> Most of the questions in the recitations and concept checks are from the resources mentioned above or from Prof. Afonso's DS-GA 1014 Fall 2018 lectures
