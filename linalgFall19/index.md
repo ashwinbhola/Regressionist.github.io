@@ -12,11 +12,14 @@ title: DS-GA 1014 Fall 2019
 
 <h4><font color="darkred">Lay of the land</font></h4>
 <font size="3">
+Instructor: Léo Miolane<br>
 Class: Tuesday, 12:30 PM - 2:10 PM, 12WV G08<br>
-Léo's Office hours: TBA (or by appointment)<br><br>
+Léo's Office hours: TBA (or by appointment)<br>
+<a href='https://leomiolane.github.io/linalg-for-ds.html'>Lecture material</a><br><br>
 
+Section Leader: Ashwin Bhola
 Recitation: Wednesday, 2:00 PM - 2:50 PM, 19W4 101<br>
-Ashwin's Office hours: Thursday, 2:00 PM - 2:50 PM<br>
+Ashwin's Office hours: TBA<br>
 </font>
 <br>
 
