@@ -4,7 +4,7 @@ title: DS-GA 1014 Fall 2019
 ---
 
 
-<body style='font-family:BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;'>
+<div style='font-family:BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;'>
 
 <h3>Optimization and Computational Linear Algebra Recitation - Fall 2019</h3>
 <br>
@@ -32,12 +32,15 @@ There are many videos that can be found online regarding linear algebra and opti
 </ol>
 </font>
 <br>
+</div>
 
+> Most of the questions in the recitations and concept checks are from the books mentioned above
 
+<div style='font-family:BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;'>
 <h4><font color="darkred">Recitations</font></h4>
 <font size="3">
 <ol>
-<li>Week 1: <a href='/Recitations/Lab1.pdf'>Vector Spaces</a></li>
+<li>Week 1: <a href='/linalgFall19/Recitations/Lab1.pdf'>Vector Spaces</a></li>
 </ol>
 </font>
 <br>
@@ -46,8 +49,8 @@ There are many videos that can be found online regarding linear algebra and opti
 <h4><font color="darkred">Concept checks</font></h4>
 <font size="3">
 <ol>
-<li>Week 1: <a href='/ConceptChecks/ConceptCheck1.pdf'>Vector Spaces</a></li>
+<li>Week 1: <a href='/linalgFall19/ConceptChecks/ConceptCheck1.pdf'>Vector Spaces</a></li>
 </ol>
 </font>
 
-</body>
+</div>
