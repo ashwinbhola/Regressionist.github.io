@@ -36,22 +36,16 @@ There are many videos that can be found online regarding linear algebra and opti
 </font>
 <br>
 
-<h4><font color="darkred">Recitations</font></h4>
+<h4><font color="darkred">Recitations and Concept checks</font></h4>
 <font size="3">
 <ol>
-<li>Week 1: <a href='/linalgFall19/Recitations/Lab1.pdf'>Vector Spaces</a></li>
+<li>Week 1: Recitation(<a href='/linalgFall19/Recitations/Lab1.pdf'>slides</a>), Concept Check(<a href='/linalgFall19/Recitations/Lab1.pdf'>slides</a>)</li>
+<li>Week 2: <i>...Stay tuned...</i>
 </ol>
 </font>
 <br>
 
 
-<h4><font color="darkred">Concept checks</font></h4>
-<font size="3">
-<ol>
-<li>Week 1: <a href='/linalgFall19/ConceptChecks/ConceptCheck1.pdf'>Vector Spaces</a></li>
-</ol>
-</font>
-<br>
 </div>
 
 
