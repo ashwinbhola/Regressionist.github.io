@@ -40,7 +40,7 @@ There are many videos that can be found online regarding linear algebra and opti
 <font size="3">
 <ol>
 <li>Week 1: Recitation(<a href='/linalgFall19/Recitations/Lab1.pdf'>slides</a>), Concept Check(<a href='/linalgFall19/Recitations/Lab1.pdf'>slides</a>)</li>
-<li>Week 2: <i>...Stay tuned...</i>
+<li>Week 2: <i>...Stay tuned...</i></li>
 </ol>
 </font>
 <br>
