@@ -40,8 +40,8 @@ There are many videos that can be found online regarding linear algebra and opti
 <h4><font color="darkred">Recitations and Concept checks</font></h4>
 <font size="3">
 <ol>
-<!--<li>Week 1: Recitation(<a href='/linalgFall19/Recitations/Week1.pdf'>slides</a>), Concept Check(<a href='/linalgFall19/ConceptChecks/Week1.pdf'>slides</a>)</li>-->
-<li>Week 1: <i>...Stay tuned...</i></li>
+<li>Week 1: Recitation(<a href='/linalgFall19/Recitations/Week1.pdf' target="_blank">slides</a>), Concept Check(<a href='/linalgFall19/ConceptChecks/Week1.pdf' target="_blank">slides</a>)</li>
+<li>Week 2: <i>...Stay tuned...</i></li>
 </ol>
 </font>
 <br>
