@@ -18,7 +18,7 @@ Class: Tuesday, 12:30 PM - 2:10 PM, 12WV G08<br>
 
 Section Leader: Ashwin Bhola<br>
 Recitation: Wednesday, 2:00 PM - 2:50 PM, 19W4 101<br>
-Ashwin's Office hours: Wednesday, 3:30 PM - 4:30 PM<br><br>
+Ashwin's Office hours: Wednesday, 5:00 PM - 5:50 PM, CDS 650<br><br>
 
 Piazza page for the course <a href='https://piazza.com/nyu/fall2019/dsga1014' target="_blank">here </a>
 </font>
