@@ -18,7 +18,7 @@ Class: Tuesday, 12:30 PM - 2:10 PM, 12WV G08<br>
 
 Section Leader: Ashwin Bhola<br>
 Recitation: Wednesday, 2:00 PM - 2:50 PM, 19W4 101<br>
-Ashwin's Office hours: Wednesday, 5:00 PM - 5:50 PM, CDS 650<br><br>
+Ashwin's Office hours: Thursday, 1:00 PM - 2:00 PM, CDS 650<br><br>
 
 Piazza page for the course <a href='https://piazza.com/nyu/fall2019/dsga1014' target="_blank">here </a>
 </font>
@@ -41,7 +41,7 @@ There are many videos that can be found online regarding linear algebra and opti
 <font size="3">
 <ol>
 <li>Week 1: Recitation(<a href='/linalgFall19/Recitations/Week1.pdf' target="_blank">slides</a>, <a href='/linalgFall19/Recitations/Lab1Sol.pdf' target="_blank">solutions</a>), Concept Check(<a href='/linalgFall19/ConceptChecks/Week1.pdf' target="_blank">slides</a>, <a href='/linalgFall19/ConceptChecks/Week1Sol.pdf' target="_blank">solutions</a>)</li>
-<li>Week 2: Recitation(<a href='/linalgFall19/Recitations/Week2.pdf' target="_blank">slides</a>)</li>
+<li>Week 2: Recitation(<a href='/linalgFall19/Recitations/Week2.pdf' target="_blank">slides</a>, <a href='/linalgFall19/Recitations/Lab2Sol.pdf' target="_blank">solutions</a>)</li>
 <li>Week 3: <i>...Stay tuned...</i></li>
 </ol>
 </font>
