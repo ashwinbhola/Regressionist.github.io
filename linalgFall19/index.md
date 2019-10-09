@@ -45,7 +45,8 @@ There are many videos that can be found online regarding linear algebra and opti
 <li>Week 3: Recitation(<a href='/linalgFall19/Recitations/Week3.pdf' target="_blank">slides</a>, <a href='/linalgFall19/Recitations/Lab3Sol.pdf' target="_blank">solutions</a>)</li>
 <li>Week 4: Recitation(<a href='/linalgFall19/Recitations/Lab4.pdf' target="_blank">slides</a>, <a href='/linalgFall19/Recitations/Lab4Sol.pdf' target="_blank">solutions</a>)</li>
 <li>Week 5: Recitation(<a href='/linalgFall19/Recitations/Lab5.pdf' target="_blank">slides</a>, <a href='/linalgFall19/Recitations/Lab5Sol.pdf' target="_blank">solutions</a>)</li>
-<li>Week 6: <i>...Stay tuned...</i></li>
+<li>Week 6: Recitation(<a href='/linalgFall19/Recitations/Lab6.pdf' target="_blank">slides</a>, <a href='/linalgFall19/Recitations/Lab6Sol.pdf' target="_blank">solutions</a>)</li>
+<li>Week 7: <i>...Stay tuned...</i></li>
 </ol>
 </font>
 <br>
