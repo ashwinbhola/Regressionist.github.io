@@ -48,8 +48,9 @@ There are many videos that can be found online regarding linear algebra and opti
 <li>Week 6: Recitation(<a href='/linalgFall19/Recitations/Lab6.pdf' target="_blank">slides</a>, <a href='/linalgFall19/Recitations/Lab6Sol.pdf' target="_blank">solutions</a>)</li>
 <li>Week 7: Midterm review(<a href='/linalgFall19/Recitations/Lab7_Review.pdf' target="_blank">Review 1</a>, <a href='/linalgFall19/Recitations/Lab7_Review2.pdf' target="_blank">Review 2</a>)</li>
 <li>Week 9: Recitation(<a href='/linalgFall19/Recitations/Lab9.pdf' target="_blank">slides</a>, <a href='/linalgFall19/Recitations/Lab9Sol.pdf' target="_blank">solutions</a>)</li>
-<li>Week 10: Recitation(<a href='/linalgFall19/Recitations/Lab19.pdf' target="_blank">slides</a>, <a href='/linalgFall19/Recitations/Lab10Sol.pdf' target="_blank">solutions</a>)</li>
-<li>Week 11: <i>...Stay tuned...</i></li>
+<li>Week 10: Recitation(<a href='/linalgFall19/Recitations/Lab10.pdf' target="_blank">slides</a>, <a href='/linalgFall19/Recitations/Lab10Sol.pdf' target="_blank">solutions</a>)</li>
+<li>Week 10: Recitation(<a href='/linalgFall19/Recitations/Lab11.pdf' target="_blank">slides</a>, <a href='/linalgFall19/Recitations/Lab11Sol.pdf' target="_blank">solutions</a>)</li>
+<li>Week 12: <i>...Stay tuned...</i></li>
 </ol>
 </font>
 <br>
