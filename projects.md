@@ -4,7 +4,7 @@ title: Projects
 subtitle: Driving impact through Data Science
 ---
 
-## Experience
+<!-- ## Experience
 + **IBM (Watson Healthcare & Life Sciences)**: Responsible for the successful delivery of data science solutions and services in a client consulting environment. Built an end-to-end system to process, manipulate, and analyze text from PDF documents and news articles. Developed entity and relationship extraction models using n-gram similarities and Markov chain achieving F1 score of 0.5. Employed dynamic systems that improve learning based on outcomes to get smarter with each iteration
 
 
@@ -37,6 +37,6 @@ subtitle: Driving impact through Data Science
 + [**Flight Delay Prediction**](https://github.com/Regressionist/Flight-Delay-Prediction): Worked in a team of three to design a model to predict flight delays for flights departing from JFK airport based on historical data of flight delays, past weather data and US Bank holidays data. Achieved 0.78 AUC using ensemble methods
 
 
-+ [**Sentiment analysis**](https://github.com/Regressionist/Sentiment-analysis): Classified Amazon reviews as postive and negative using RNN and bidirectional multilayer LSTM. Achieved classification accuracy of 0.952 on the test set
++ [**Sentiment analysis**](https://github.com/Regressionist/Sentiment-analysis): Classified Amazon reviews as postive and negative using RNN and bidirectional multilayer LSTM. Achieved classification accuracy of 0.952 on the test set -->
 
 
