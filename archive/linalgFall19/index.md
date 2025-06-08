@@ -4,7 +4,7 @@ title: DS-GA 1014 Fall 2019
 ---
 
 
-<div style='font-family:BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;'>
+<div style='font-family:BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Trebuchet MS",Helvetica,Arial,sans-serif;'>
 
 <h3>Optimization and Computational Linear Algebra Recitation - Fall 2019</h3>
 <br>
